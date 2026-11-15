@@ -1,0 +1,9 @@
+{
+    "facts": {
+        "rows": 5,
+        "total_revenue": 13300,
+        "top_category_by_revenue": "software",
+        "avg_units": 140
+    },
+    "summary": "Based on my analysis of the provided dataset, here is the executive summary:\n\n**Executive Summary:**\nThe dataset reflects a high-value, low-volume transaction profile. With a total revenue of **$13,300** generated from only **5 records**, the average transaction value is significantly high at **$2,660**. The primary growth driver is the **\"software\"** category, which dominates the revenue share. Furthermore, an average of **140 units** per entry indicates high-volume movement within these specific transactions.\n\n**Key Insight:**\nThe data suggests a specialized niche or a premium \"bulk\" sales model where few transactions yield substantial revenue, specifically driven by software products."
+}
